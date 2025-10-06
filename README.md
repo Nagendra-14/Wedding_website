@@ -3,7 +3,7 @@ __Wedding House Website__
 - Description  
 A beautifully designed wedding website template created using HTML, CSS, and Adobe Photoshop for graphics and image editing. The website showcases key sections ideal for a wedding event announcement including the couple’s story, wedding planner, photo gallery, blog, and contact information.
 
-- Features
+ __Features__
 - Responsive navigation menu with sections: Home, The Wedding, Wedding Planner, Blog, Contact
 
 - Elegant hero banner with call-to-action button
